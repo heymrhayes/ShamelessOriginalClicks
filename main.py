@@ -32,7 +32,7 @@ t.hideturtle()
 
 t2 = turtle.Turtle()
 
-t2.color("red")
+t2.color("green")
 
 t2.penup()
 t2.hideturtle()
